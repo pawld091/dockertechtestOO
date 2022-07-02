@@ -1,0 +1,19 @@
+{
+  "name": "dockertechtestoo",
+  "version": "1.0.0",
+  "description": "Docker image technical test for Очень Интересно",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawld091/dockertechtestOO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawld091/dockertechtestOO/issues"
+  },
+  "homepage": "https://github.com/pawld091/dockertechtestOO#readme"
+}
